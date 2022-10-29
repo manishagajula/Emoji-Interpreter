@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background: url("https://images.unsplash.com/photo-1553532435-93d532a45f15?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+  font-size: 4rem;
+  color: rgb(253, 253, 10);
+  text-shadow: 2px 2px 8px black;
+}
+
+h3 {
+  padding-top: 1rem;
+  width: 60%;
+  margin: auto;
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
+  color: yellow;
+  text-shadow: 2px 2px 8px black;
+  font-weight: bolder;
+}
+
+h3 {
+  background-color: black;
+  opacity: 0.5;
+  weight: 30%;
+  color: yellow;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: yellow;
+  text-shadow: 2px 2px 8px black;
+}
+
+.end {
+  font-size: 1.5rem;
+  color: yellow;
+  text-shadow: 2px 2px 8px black;
+  padding-top: 4rem;
+}
+
+input {
+  box-shadow: 2px 2px 8px white;
+}
+
+#emoji {
+  padding: 1rem;
+  cursor: pointer;
+}
